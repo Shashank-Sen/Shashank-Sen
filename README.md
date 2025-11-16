@@ -38,11 +38,10 @@ AWS basics · Google Cloud
 
 | App / Project | Description |
 |--------------|-------------|
-| **StreamText AI** | Text-to-text generator app built with Streamlit + Gemini + LangChain |
-| **Sales Data Analytics Dashboard** | Python-based project with 15+ pattern-based insights & visualizations |
-| **Android E-Learning App (InspireLearn)** | Java Android app for interactive learning & IoT integration |
+| [**StreamText AI**](https://github.com/Shashank-Sen/streamtext-app) | Text-to-text generator app built with Streamlit + Gemini + LangChain |
+| [**Sales Data Analytics Dashboard**](https://github.com/Shashank-Sen/Sales-Data-Analytics) | Python-based project with 15+ pattern-based insights & visualizations |
+| [**Android E-Learning App (InspireLearn)**](https://github.com/Shashank-Sen/E-learning_App) | Java Android app for interactive learning & IoT integration |
 
-📌 *(Add GitHub links to each repo)*
 
 ---
 
