@@ -1,4 +1,4 @@
-[![Logo](https://github.com/Shashank-Sen/Shashank-Sen/blob/main/banner.png)
+![Logo](https://github.com/Shashank-Sen/Shashank-Sen/blob/main/banner.png)
 
 # 👋 Hi, I'm Shashank Sen  
 
