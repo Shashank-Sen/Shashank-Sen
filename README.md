@@ -21,7 +21,7 @@ B.Tech CSE Graduate • Training in Data Science & Agentic AI • Building intel
 ## 🚀 Skills & Tech Stack  
 
 ### **Languages:**  
-Python · C++ · MS Excel · SQL · Java  
+Python · C++ · MS Excel · SQL 
 
 ### **AI / ML:**  
 Generative AI (LLMs, RAG) · LangChain · Embeddings · ChromaDB · Hugging-Face  
