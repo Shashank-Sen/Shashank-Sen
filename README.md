@@ -17,6 +17,10 @@ B.Tech CSE Graduate • Training in Data Science & Agentic AI • Building intel
 - Learning fast and building real-world solutions  
 
 ---
+## Portfolio 
+https://shashank-sen.github.io/
+
+---
 
 ## 🚀 Skills & Tech Stack  
 
