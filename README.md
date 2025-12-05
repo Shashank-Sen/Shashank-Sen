@@ -47,14 +47,6 @@ AWS basics · Google Cloud
 | [**Android E-Learning App (InspireLearn)**](https://github.com/Shashank-Sen/E-learning_App) | Java Android app for interactive learning & IoT integration |
 
 
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shashank-Sen&show_icons=true&theme=dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank-Sen&layout=compact&theme=dark&hide_border=true" />
-</p>
 
 ---
 
