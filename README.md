@@ -44,7 +44,7 @@ AWS basics · Google Cloud
 |--------------|-------------|
 | [**StreamText AI**](https://github.com/Shashank-Sen/streamtext-app) | Text-to-text generator app built with Streamlit + Gemini + LangChain |
 | [**Sales Data Analytics Dashboard**](https://github.com/Shashank-Sen/Sales-Data-Analytics) | Python-based project with 15+ pattern-based insights & visualizations |
-| [**Android E-Learning App (InspireLearn)**](https://github.com/Shashank-Sen/E-learning_App) | Java Android app for interactive learning & IoT integration |
+| [**LLM-Powered EDA Tool)**]([https://github.com/Shashank-Sen/E-learning_App](https://github.com/Shashank-Sen/LLM-Powered-EDA-Tool-)) |A powerful AI-driven EDA application built with Gradio, Pandas, and Seaborn, enhanced by LLM-powered insights using Ollama's Mistral-7B. |
 
 
 
